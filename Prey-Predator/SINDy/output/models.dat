@@ -1,0 +1,414 @@
+Experimento 1: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 2: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 3: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 4: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 5: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 6: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 7: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 8: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 9: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 10: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 11: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 12: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 13: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 14: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 15: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 16: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 17: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 18: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 19: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Experimento 20: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 21: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 22: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+x' = 0.880 x + -0.112 y + -0.162 x^2 y + -0.163 x y^2
+y' = 0.121 x + -0.889 y + 0.159 x^2 y + 0.167 x y^2
+
+
+Experimento 23: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 24: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 25: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+x' = 0.880 x + -0.112 y + -0.162 x^2 y + -0.163 x y^2
+y' = 0.121 x + -0.889 y + 0.159 x^2 y + 0.167 x y^2
+
+
+Experimento 26: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 27: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 28: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+x' = 0.843 x + -0.148 x^2 y + -0.190 x y^2
+y' = -0.861 y + 0.185 x^2 y + 0.155 x y^2
+
+
+Experimento 29: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 30: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 31: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+x' = 1.002 x + -0.326 x^2 y
+y' = -0.552 y + 0.271 x^2 y
+
+
+Experimento 32: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 33: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 34: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+x' = -0.167 x
+y' = 0.000
+
+
+Experimento 35: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 36: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 37: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+x' = 0.906 x + -0.742 y + -0.227 x^2
+y' = 0.927 x + -1.184 y + 0.264 y^2
+
+
+Experimento 38: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 39: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 40: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+x' = 2.787 x + -0.833 y + -1.841 x^2 + 0.302 x^3
+y' = 0.977 x + -2.390 y + 1.317 y^2 + -0.199 y^3
+
+
+Experimento 41: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 42: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 43: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+x' = 0.960 1 + -0.985 y
+y' = -1.090 1 + 1.119 x
+
+
+Experimento 44: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 45: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 46: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+x' = -0.167 x
+y' = 0.000
+
+
+Experimento 47: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 48: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 49: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+x' = 0.906 x + -0.742 y + -0.227 x^2
+y' = 0.000
+
+
+Experimento 50: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 51: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 52: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+x' = 2.787 x + -0.833 y + -1.841 x^2 + 0.302 x^3
+y' = 0.977 x + -2.390 y + 1.317 y^2 + -0.199 y^3
+
+
+Experimento 53: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 54: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 55: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+x' = 0.906 x + -0.742 y + -0.227 x^2
+y' = -1.090 1 + 1.119 x
+
+
+Experimento 56: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 57: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 58: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+x' = -0.167 x
+y' = 0.000
+
+
+Experimento 59: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 1.0
+
+x' = 0.000
+y' = 0.000
+
+
+Experimento 60: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 10.0
+
+x' = 0.000
+y' = 0.000
+
+
+Modelo 1
+
+x' = 0.990 x + -0.989 x y
+y' = -0.989 y + 0.989 x y
+
+
+Modelo 2
+
+x' = 0.000
+y' = 0.000
+
+
+Modelo 3
+
+x' = 0.880 x + -0.112 y + -0.162 x^2 y + -0.163 x y^2
+y' = 0.121 x + -0.889 y + 0.159 x^2 y + 0.167 x y^2
+
+
+Modelo 4
+
+x' = 0.843 x + -0.148 x^2 y + -0.190 x y^2
+y' = -0.861 y + 0.185 x^2 y + 0.155 x y^2
+
+
+Modelo 5
+
+x' = 1.002 x + -0.326 x^2 y
+y' = -0.552 y + 0.271 x^2 y
+
+
+Modelo 6
+
+x' = -0.167 x
+y' = 0.000
+
+
+Modelo 7
+
+x' = 0.960 1 + -0.985 y
+y' = -1.090 1 + 1.119 x
+
+
+Modelo 8
+
+x' = 0.906 x + -0.742 y + -0.227 x^2
+y' = 0.000
+
+
+Melhor modelo AIC = 1
+
+Melhor modelo AICc = 1
+
+Melhor modelo BIC = 1
+

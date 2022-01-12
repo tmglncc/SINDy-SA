@@ -1,0 +1,1320 @@
+Experimento 1: Grau = 1, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+theta' = -0.003 1 + 0.994 omega + 0.004 cos(1 theta)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 2: Grau = 1, Frequência = 1, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.939 sin(1 theta) + -0.012 cos(1 theta)
+
+
+Experimento 3: Grau = 1, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 4: Grau = 1, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+theta' = -0.003 1 + 0.994 omega + 0.004 cos(1 theta)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 5: Grau = 1, Frequência = 1, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.939 sin(1 theta) + -0.012 cos(1 theta)
+
+
+Experimento 6: Grau = 1, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 7: Grau = 1, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+theta' = -0.003 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 8: Grau = 1, Frequência = 1, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.939 sin(1 theta) + -0.012 cos(1 theta)
+
+
+Experimento 9: Grau = 1, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 10: Grau = 1, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+theta' = -0.004 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 11: Grau = 1, Frequência = 1, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.938 sin(1 theta) + -0.013 cos(1 theta) + 0.002 cos(1 omega)
+
+
+Experimento 12: Grau = 1, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.939 sin(1 theta) + -0.012 cos(1 theta)
+
+
+Experimento 13: Grau = 1, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+theta' = -0.003 1 + -0.001 theta + 0.994 omega + 0.001 sin(1 theta) + 0.003 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 14: Grau = 1, Frequência = 1, alpha = 10.0, threshold = 0.01
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Experimento 15: Grau = 1, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.938 sin(1 theta) + -0.013 cos(1 theta) + 0.002 cos(1 omega)
+
+
+Experimento 16: Grau = 1, Frequência = 2, alpha = 0.001, threshold = 0.001
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.016 sin(1 theta) + 0.012 cos(1 theta) + 0.007 sin(2 theta) + -0.004 cos(2 theta)
+omega' = 0.013 1 + -0.017 theta + -0.250 omega + -4.949 sin(1 theta) + -0.021 cos(1 theta) + 0.005 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta)
+
+
+Experimento 17: Grau = 1, Frequência = 2, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.249 omega + -4.978 sin(1 theta) + 0.019 sin(2 theta)
+
+
+Experimento 18: Grau = 1, Frequência = 2, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 19: Grau = 1, Frequência = 2, alpha = 0.01, threshold = 0.001
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.015 sin(1 theta) + 0.011 cos(1 theta) + 0.001 sin(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.021 cos(1 theta) + 0.006 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega)
+
+
+Experimento 20: Grau = 1, Frequência = 2, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.022 1 + -0.033 theta + -0.248 omega + -4.918 sin(1 theta) + -0.035 cos(1 theta) + 0.014 cos(2 theta)
+
+
+Experimento 21: Grau = 1, Frequência = 2, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 22: Grau = 1, Frequência = 2, alpha = 0.1, threshold = 0.001
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.015 sin(1 theta) + 0.012 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Experimento 23: Grau = 1, Frequência = 2, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.016 theta + -0.249 omega + -4.951 sin(1 theta) + -0.019 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 24: Grau = 1, Frequência = 2, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 25: Grau = 1, Frequência = 2, alpha = 1.0, threshold = 0.001
+
+theta' = -0.008 1 + 0.008 theta + 0.993 omega + -0.016 sin(1 theta) + 0.012 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Experimento 26: Grau = 1, Frequência = 2, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.021 cos(1 theta) + 0.006 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Experimento 27: Grau = 1, Frequência = 2, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.016 theta + -0.249 omega + -4.951 sin(1 theta) + -0.019 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 28: Grau = 1, Frequência = 2, alpha = 10.0, threshold = 0.001
+
+theta' = -0.008 1 + 0.008 theta + 0.993 omega + -0.016 sin(1 theta) + 0.012 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Experimento 29: Grau = 1, Frequência = 2, alpha = 10.0, threshold = 0.01
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Experimento 30: Grau = 1, Frequência = 2, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.016 theta + -0.249 omega + -4.951 sin(1 theta) + -0.019 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 31: Grau = 1, Frequência = 3, alpha = 0.001, threshold = 0.001
+
+theta' = -0.007 1 + 0.008 theta + 0.994 omega + -0.017 sin(1 theta) + 0.010 cos(1 theta) + 0.010 sin(2 theta) + -0.003 cos(2 theta) + -0.003 sin(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.944 sin(1 theta) + -0.028 cos(1 theta) + 0.005 sin(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 32: Grau = 1, Frequência = 3, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.249 omega + -4.978 sin(1 theta) + 0.019 sin(2 theta)
+
+
+Experimento 33: Grau = 1, Frequência = 3, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 34: Grau = 1, Frequência = 3, alpha = 0.01, threshold = 0.001
+
+theta' = -0.007 1 + 0.008 theta + 0.994 omega + -0.017 sin(1 theta) + 0.010 cos(1 theta) + 0.010 sin(2 theta) + -0.003 cos(2 theta) + -0.003 sin(3 theta)
+omega' = 0.019 1 + -0.023 theta + -0.250 omega + -4.942 sin(1 theta) + -0.030 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.014 cos(2 theta) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 35: Grau = 1, Frequência = 3, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.031 1 + -0.049 theta + -0.248 omega + -4.897 sin(1 theta) + -0.051 cos(1 theta) + 0.029 cos(2 theta) + -0.009 cos(3 theta)
+
+
+Experimento 36: Grau = 1, Frequência = 3, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 37: Grau = 1, Frequência = 3, alpha = 0.1, threshold = 0.001
+
+theta' = -0.005 1 + 0.004 theta + 0.994 omega + -0.011 sin(1 theta) + 0.006 cos(1 theta) + 0.001 sin(1 omega) + 0.008 sin(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 38: Grau = 1, Frequência = 3, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.017 theta + -0.249 omega + -4.949 sin(1 theta) + -0.020 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 39: Grau = 1, Frequência = 3, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.017 theta + -0.249 omega + -4.949 sin(1 theta) + -0.020 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 40: Grau = 1, Frequência = 3, alpha = 1.0, threshold = 0.001
+
+theta' = -0.003 1 + 0.994 omega + -0.004 sin(1 theta) + 0.002 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.007 sin(2 theta) + 0.002 cos(2 theta) + -0.001 sin(2 omega) + -0.002 sin(3 theta) + -0.002 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 41: Grau = 1, Frequência = 3, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.018 1 + -0.023 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 42: Grau = 1, Frequência = 3, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.017 theta + -0.249 omega + -4.949 sin(1 theta) + -0.020 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Experimento 43: Grau = 1, Frequência = 3, alpha = 10.0, threshold = 0.001
+
+theta' = -0.002 1 + -0.002 theta + 0.994 omega + -0.002 sin(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + 0.004 cos(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.003 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 44: Grau = 1, Frequência = 3, alpha = 10.0, threshold = 0.01
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 45: Grau = 1, Frequência = 3, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = 0.016 1 + -0.020 theta + -0.249 omega + -4.948 sin(1 theta) + -0.026 cos(1 theta) + 0.018 sin(2 theta) + 0.011 cos(2 theta) + -0.005 sin(3 theta) + -0.001 cos(3 theta)
+
+
+Experimento 46: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+theta' = -0.022 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.022 cos(1 theta)
+omega' = -0.086 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 47: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 48: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 49: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+theta' = -0.022 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.022 cos(1 theta)
+omega' = -0.086 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 50: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 51: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 52: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+theta' = -0.022 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.022 cos(1 theta) + 0.001 sin(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.036 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 53: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 54: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 55: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+theta' = -0.021 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.021 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 56: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 57: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 58: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+theta' = -0.021 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.021 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 59: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.01
+
+theta' = -0.003 1 + 0.994 omega + 0.001 sin(1 omega) + 0.003 cos(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.036 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Experimento 60: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 61: Grau = 2, Frequência = 2, alpha = 0.001, threshold = 0.001
+
+theta' = -0.048 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + -0.008 cos(2 theta)
+omega' = -0.125 1 + -0.064 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.876 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 62: Grau = 2, Frequência = 2, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 63: Grau = 2, Frequência = 2, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 64: Grau = 2, Frequência = 2, alpha = 0.01, threshold = 0.001
+
+theta' = -0.049 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + -0.008 cos(2 theta)
+omega' = -0.125 1 + -0.064 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.876 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 65: Grau = 2, Frequência = 2, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.093 1 + -0.060 theta + -0.249 omega + 0.039 theta^2 + -4.877 sin(1 theta) + 0.097 cos(1 theta) + -0.004 sin(2 theta) + -0.003 cos(2 theta)
+
+
+Experimento 66: Grau = 2, Frequência = 2, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 67: Grau = 2, Frequência = 2, alpha = 0.1, threshold = 0.001
+
+theta' = -0.048 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.013 sin(1 theta) + 0.056 cos(1 theta) + 0.001 sin(1 omega) + -0.007 cos(2 theta) + -0.001 sin(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 68: Grau = 2, Frequência = 2, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.073 1 + -0.054 theta + -0.249 omega + 0.032 theta^2 + -4.888 sin(1 theta) + 0.073 cos(1 theta) + -0.002 sin(2 theta)
+
+
+Experimento 69: Grau = 2, Frequência = 2, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.073 1 + -0.054 theta + -0.249 omega + 0.032 theta^2 + -4.888 sin(1 theta) + 0.073 cos(1 theta) + -0.002 sin(2 theta)
+
+
+Experimento 70: Grau = 2, Frequência = 2, alpha = 1.0, threshold = 0.001
+
+theta' = 0.003 1 + 0.007 theta + 0.994 omega + -0.003 theta^2 + -0.015 sin(1 theta) + -0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 71: Grau = 2, Frequência = 2, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 72: Grau = 2, Frequência = 2, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.093 1 + -0.060 theta + -0.249 omega + 0.039 theta^2 + -4.877 sin(1 theta) + 0.097 cos(1 theta) + -0.004 sin(2 theta) + -0.003 cos(2 theta)
+
+
+Experimento 73: Grau = 2, Frequência = 2, alpha = 10.0, threshold = 0.001
+
+theta' = -0.049 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + 0.001 sin(1 omega) + 0.002 cos(1 omega) + -0.008 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 74: Grau = 2, Frequência = 2, alpha = 10.0, threshold = 0.01
+
+theta' = -0.004 1 + 0.993 omega + 0.004 cos(1 theta) + 0.002 sin(1 omega) + -0.002 sin(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Experimento 75: Grau = 2, Frequência = 2, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.004 1 + -0.016 theta + -0.249 omega + 0.004 theta^2 + -0.004 theta omega + -4.956 sin(1 theta) + 0.016 sin(2 theta) + 0.004 cos(2 theta)
+
+
+Experimento 76: Grau = 2, Frequência = 3, alpha = 0.001, threshold = 0.001
+
+theta' = 0.024 1 + 0.021 theta + 0.994 omega + -0.011 theta^2 + -0.039 sin(1 theta) + -0.024 cos(1 theta) + 0.016 sin(2 theta) + -0.004 sin(3 theta)
+omega' = -0.187 1 + -0.099 theta + -0.250 omega + 0.072 theta^2 + -0.005 theta omega + -4.817 sin(1 theta) + 0.198 cos(1 theta) + 0.004 sin(1 omega) + -0.020 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 77: Grau = 2, Frequência = 3, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.235 1 + -0.118 theta + -0.249 omega + 0.090 theta^2 + -4.777 sin(1 theta) + 0.253 cos(1 theta) + -0.036 sin(2 theta) + -0.018 cos(2 theta) + 0.008 sin(3 theta)
+
+
+Experimento 78: Grau = 2, Frequência = 3, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 79: Grau = 2, Frequência = 3, alpha = 0.01, threshold = 0.001
+
+theta' = 0.011 theta + 0.994 omega + -0.003 theta^2 + -0.023 sin(1 theta) + 0.002 cos(1 theta) + 0.011 sin(2 theta) + -0.002 cos(2 theta) + -0.003 sin(3 theta)
+omega' = -0.192 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.814 sin(1 theta) + 0.204 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 80: Grau = 2, Frequência = 3, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.236 1 + -0.124 theta + -0.249 omega + 0.091 theta^2 + -4.767 sin(1 theta) + 0.253 cos(1 theta) + -0.038 sin(2 theta) + -0.015 cos(2 theta) + 0.008 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 81: Grau = 2, Frequência = 3, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 82: Grau = 2, Frequência = 3, alpha = 0.1, threshold = 0.001
+
+theta' = -0.005 1 + 0.004 theta + 0.994 omega + -0.011 sin(1 theta) + 0.006 cos(1 theta) + 0.001 sin(1 omega) + 0.008 sin(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.001 cos(3 theta)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 83: Grau = 2, Frequência = 3, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.236 1 + -0.124 theta + -0.249 omega + 0.091 theta^2 + -4.767 sin(1 theta) + 0.253 cos(1 theta) + -0.038 sin(2 theta) + -0.015 cos(2 theta) + 0.008 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Experimento 84: Grau = 2, Frequência = 3, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.093 1 + -0.065 theta + -0.249 omega + 0.040 theta^2 + -4.869 sin(1 theta) + 0.094 cos(1 theta) + -0.006 sin(2 theta) + -0.002 cos(3 theta)
+
+
+Experimento 85: Grau = 2, Frequência = 3, alpha = 1.0, threshold = 0.001
+
+theta' = 0.021 1 + 0.019 theta + 0.994 omega + -0.010 theta^2 + -0.036 sin(1 theta) + -0.023 cos(1 theta) + 0.002 cos(1 omega) + 0.015 sin(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega) + -0.004 sin(3 theta) + 0.001 cos(3 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 86: Grau = 2, Frequência = 3, alpha = 1.0, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.189 1 + -0.099 theta + -0.250 omega + 0.072 theta^2 + -0.005 theta omega + -4.816 sin(1 theta) + 0.200 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.020 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 87: Grau = 2, Frequência = 3, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.008 1 + -0.035 theta + -0.249 omega + 0.009 theta^2 + -4.920 sin(1 theta) + 0.006 sin(2 theta) + 0.011 cos(2 theta) + -0.003 cos(3 theta)
+
+
+Experimento 88: Grau = 2, Frequência = 3, alpha = 10.0, threshold = 0.001
+
+theta' = 0.024 1 + 0.021 theta + 0.994 omega + -0.012 theta^2 + -0.040 sin(1 theta) + -0.026 cos(1 theta) + 0.002 cos(1 omega) + 0.017 sin(2 theta) + 0.001 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega) + -0.004 sin(3 theta) + 0.001 cos(3 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 89: Grau = 2, Frequência = 3, alpha = 10.0, threshold = 0.01
+
+theta' = -0.005 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.002 cos(1 omega) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.205 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Experimento 90: Grau = 2, Frequência = 3, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.008 1 + -0.035 theta + -0.249 omega + 0.009 theta^2 + -4.920 sin(1 theta) + 0.006 sin(2 theta) + 0.011 cos(2 theta) + -0.003 cos(3 theta)
+
+
+Experimento 91: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+theta' = -0.011 1 + 0.030 theta + 0.992 omega + 0.005 theta^2 + -0.004 theta^3 + 0.003 theta^2 omega + -0.029 sin(1 theta) + 0.011 cos(1 theta)
+omega' = 0.005 1 + -0.270 theta + -0.246 omega + -0.003 theta^2 + 0.029 theta^3 + -0.001 theta^2 omega + 0.006 theta omega^2 + -4.689 sin(1 theta) + -0.005 cos(1 theta)
+
+
+Experimento 92: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Experimento 93: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 94: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+theta' = -0.011 1 + 0.030 theta + 0.992 omega + 0.005 theta^2 + -0.004 theta^3 + 0.003 theta^2 omega + -0.029 sin(1 theta) + 0.011 cos(1 theta)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Experimento 95: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.063 1 + -0.056 theta + -0.249 omega + 0.028 theta^2 + 0.001 theta^3 + -4.888 sin(1 theta) + 0.063 cos(1 theta)
+
+
+Experimento 96: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 97: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+theta' = 0.001 1 + 0.001 theta + 0.994 omega + 0.003 theta^2 omega + -0.002 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Experimento 98: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.013 1 + -0.278 theta + -0.246 omega + 0.003 theta^2 + -0.005 theta omega + 0.028 theta^3 + -0.004 theta^2 omega + -4.661 sin(1 theta) + 0.013 cos(1 theta)
+
+
+Experimento 99: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.063 1 + -0.056 theta + -0.249 omega + 0.028 theta^2 + 0.001 theta^3 + -4.888 sin(1 theta) + 0.063 cos(1 theta)
+
+
+Experimento 100: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+theta' = 0.003 1 + 0.001 theta + 0.994 omega + -0.001 theta^2 + 0.003 theta^2 omega + -0.002 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Experimento 101: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.01
+
+theta' = 1.002 omega + -0.001 omega^3 + -0.009 sin(1 omega)
+omega' = -0.013 1 + -0.278 theta + -0.246 omega + 0.003 theta^2 + -0.005 theta omega + 0.028 theta^3 + -0.004 theta^2 omega + -4.661 sin(1 theta) + 0.013 cos(1 theta)
+
+
+Experimento 102: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.168 theta + -0.249 omega + 0.017 theta^3 + -4.777 sin(1 theta)
+
+
+Experimento 103: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+theta' = 0.002 1 + 0.994 omega + 0.003 theta^2 omega + 0.002 sin(1 theta) + -0.001 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Experimento 104: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.01
+
+theta' = 0.001 1 + 0.995 omega + 0.003 theta^2 omega + -0.001 cos(1 theta) + -0.003 sin(1 omega)
+omega' = 0.006 1 + -0.269 theta + -0.242 omega + -0.003 theta^2 + 0.029 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -4.690 sin(1 theta) + -0.006 cos(1 theta) + -0.005 sin(1 omega)
+
+
+Experimento 105: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.168 theta + -0.249 omega + 0.017 theta^3 + -4.777 sin(1 theta)
+
+
+Experimento 106: Grau = 3, Frequência = 2, alpha = 0.001, threshold = 0.001
+
+theta' = 0.002 1 + 0.061 theta + 0.992 omega + -0.006 theta^3 + 0.003 theta^2 omega + -0.068 sin(1 theta) + -0.003 cos(1 theta) + 0.005 sin(2 theta) + 0.001 cos(2 theta)
+omega' = -0.032 1 + -0.012 theta + -0.246 omega + 0.009 theta^2 + 0.001 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.991 sin(1 theta) + 0.039 cos(1 theta) + 0.024 sin(2 theta) + -0.007 cos(2 theta)
+
+
+Experimento 107: Grau = 3, Frequência = 2, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.123 1 + -0.012 theta + -0.249 omega + 0.049 theta^2 + -0.006 theta^3 + -4.930 sin(1 theta) + 0.130 cos(1 theta) + -0.003 sin(2 theta) + -0.007 cos(2 theta)
+
+
+Experimento 108: Grau = 3, Frequência = 2, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 109: Grau = 3, Frequência = 2, alpha = 0.01, threshold = 0.001
+
+theta' = -0.022 1 + 0.094 theta + 0.993 omega + 0.009 theta^2 + -0.011 theta^3 + 0.003 theta^2 omega + -0.103 sin(1 theta) + 0.025 cos(1 theta) + -0.002 sin(1 omega) + -0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.002 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Experimento 110: Grau = 3, Frequência = 2, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = -0.123 1 + -0.012 theta + -0.249 omega + 0.049 theta^2 + -0.006 theta^3 + -4.930 sin(1 theta) + 0.130 cos(1 theta) + -0.003 sin(2 theta) + -0.007 cos(2 theta)
+
+
+Experimento 111: Grau = 3, Frequência = 2, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 112: Grau = 3, Frequência = 2, alpha = 0.1, threshold = 0.001
+
+theta' = 0.016 1 + 0.003 theta + 0.994 omega + -0.005 theta^2 + 0.003 theta^2 omega + -0.001 sin(1 theta) + -0.018 cos(1 theta) + -0.002 sin(1 omega) + -0.001 cos(1 omega) + 0.003 cos(2 theta)
+omega' = -0.005 1 + -0.042 theta + -0.242 omega + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.960 sin(1 theta) + 0.009 cos(1 theta) + -0.006 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta) + 0.001 sin(2 omega)
+
+
+Experimento 113: Grau = 3, Frequência = 2, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.017 1 + -0.221 theta + -0.249 omega + 0.021 theta^3 + -4.706 sin(1 theta) + -0.026 cos(1 theta) + -0.009 sin(2 theta) + 0.010 cos(2 theta)
+
+
+Experimento 114: Grau = 3, Frequência = 2, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.052 theta + -0.249 omega + 0.005 theta^3 + -4.915 sin(1 theta) + 0.013 sin(2 theta)
+
+
+Experimento 115: Grau = 3, Frequência = 2, alpha = 1.0, threshold = 0.001
+
+theta' = 0.029 1 + 0.009 theta + 0.993 omega + -0.010 theta^2 + 0.003 theta^2 omega + -0.011 sin(1 theta) + -0.033 cos(1 theta) + -0.001 sin(1 omega) + 0.002 sin(2 theta) + 0.004 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Experimento 116: Grau = 3, Frequência = 2, alpha = 1.0, threshold = 0.01
+
+theta' = 0.002 1 + 1.008 omega + -0.001 omega^2 + -0.001 omega^3 + -0.016 sin(1 omega) + -0.003 cos(1 omega) + 0.001 sin(2 omega) + 0.001 cos(2 omega)
+omega' = -0.227 1 + -0.050 theta + -0.246 omega + 0.082 theta^2 + -0.005 theta^3 + -0.005 theta^2 omega + -4.881 sin(1 theta) + 0.250 cos(1 theta) + -0.007 sin(2 theta) + -0.022 cos(2 theta)
+
+
+Experimento 117: Grau = 3, Frequência = 2, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.052 theta + -0.249 omega + 0.005 theta^3 + -4.915 sin(1 theta) + 0.013 sin(2 theta)
+
+
+Experimento 118: Grau = 3, Frequência = 2, alpha = 10.0, threshold = 0.001
+
+theta' = 0.014 1 + 0.002 theta + 0.994 omega + -0.004 theta^2 + 0.003 theta^2 omega + -0.016 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Experimento 119: Grau = 3, Frequência = 2, alpha = 10.0, threshold = 0.01
+
+theta' = 0.002 1 + 0.996 omega + 0.003 theta^2 omega + -0.001 cos(1 theta) + -0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.001 cos(2 theta)
+omega' = -0.005 1 + -0.043 theta + -0.245 omega + -0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.959 sin(1 theta) + 0.007 cos(1 theta) + -0.002 sin(1 omega) + 0.001 cos(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Experimento 120: Grau = 3, Frequência = 2, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.005 1 + -0.026 theta + -0.249 omega + 0.007 theta^2 + -4.935 sin(1 theta) + 0.009 sin(2 theta) + 0.006 cos(2 theta)
+
+
+Experimento 121: Grau = 3, Frequência = 3, alpha = 0.001, threshold = 0.001
+
+theta' = -0.012 1 + 0.079 theta + 0.992 omega + 0.005 theta^2 + -0.009 theta^3 + 0.003 theta^2 omega + -0.087 sin(1 theta) + 0.013 cos(1 theta) + 0.005 sin(2 theta)
+omega' = 0.130 1 + 0.126 theta + -0.247 omega + -0.050 theta^2 + -0.006 theta^3 + 0.007 theta omega^2 + -5.192 sin(1 theta) + -0.140 cos(1 theta) + 0.069 sin(2 theta) + 0.008 cos(2 theta) + -0.010 sin(3 theta) + 0.001 cos(3 theta)
+
+
+Experimento 122: Grau = 3, Frequência = 3, alpha = 0.001, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.386 1 + -0.873 theta + -0.249 omega + -0.123 theta^2 + 0.098 theta^3 + -3.981 sin(1 theta) + -0.453 cos(1 theta) + -0.047 sin(2 theta) + 0.079 cos(2 theta) + -0.013 cos(3 theta)
+
+
+Experimento 123: Grau = 3, Frequência = 3, alpha = 0.001, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 124: Grau = 3, Frequência = 3, alpha = 0.01, threshold = 0.001
+
+theta' = 0.005 1 + 0.005 theta + 0.994 omega + -0.001 theta^3 + 0.003 theta^2 omega + -0.007 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + -0.003 sin(2 theta) + 0.004 cos(2 theta) + 0.001 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.085 1 + 0.193 theta + -0.246 omega + -0.035 theta^2 + -0.014 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.269 sin(1 theta) + -0.087 cos(1 theta) + 0.075 sin(2 theta) + -0.011 sin(3 theta) + 0.002 cos(3 theta)
+
+
+Experimento 125: Grau = 3, Frequência = 3, alpha = 0.01, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.152 1 + -0.752 theta + -0.249 omega + -0.040 theta^2 + 0.077 theta^3 + -4.080 sin(1 theta) + -0.190 cos(1 theta) + -0.067 sin(2 theta) + 0.048 cos(2 theta) + 0.007 sin(3 theta) + -0.010 cos(3 theta)
+
+
+Experimento 126: Grau = 3, Frequência = 3, alpha = 0.01, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Experimento 127: Grau = 3, Frequência = 3, alpha = 0.1, threshold = 0.001
+
+theta' = -0.004 1 + 0.079 theta + 0.995 omega + 0.002 theta^2 + -0.009 theta^3 + 0.003 theta^2 omega + -0.089 sin(1 theta) + 0.004 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.007 sin(2 theta) + 0.001 cos(2 theta)
+omega' = 0.064 1 + 0.233 theta + -0.237 omega + -0.028 theta^2 + 0.001 theta omega + -0.001 omega^2 + -0.019 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -0.001 omega^3 + -5.314 sin(1 theta) + -0.061 cos(1 theta) + -0.012 sin(1 omega) + -0.002 cos(1 omega) + 0.077 sin(2 theta) + -0.005 cos(2 theta) + 0.002 sin(2 omega) + -0.011 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Experimento 128: Grau = 3, Frequência = 3, alpha = 0.1, threshold = 0.01
+
+theta' = 0.994 omega
+omega' = 0.152 1 + -0.752 theta + -0.249 omega + -0.040 theta^2 + 0.077 theta^3 + -4.080 sin(1 theta) + -0.190 cos(1 theta) + -0.067 sin(2 theta) + 0.048 cos(2 theta) + 0.007 sin(3 theta) + -0.010 cos(3 theta)
+
+
+Experimento 129: Grau = 3, Frequência = 3, alpha = 0.1, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.052 theta + -0.249 omega + 0.005 theta^3 + -4.915 sin(1 theta) + 0.013 sin(2 theta)
+
+
+Experimento 130: Grau = 3, Frequência = 3, alpha = 1.0, threshold = 0.001
+
+theta' = 0.040 1 + 0.009 theta + 0.995 omega + -0.013 theta^2 + 0.003 theta^2 omega + -0.011 sin(1 theta) + -0.046 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.064 1 + 0.233 theta + -0.237 omega + -0.028 theta^2 + 0.001 theta omega + -0.001 omega^2 + -0.019 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -0.001 omega^3 + -5.314 sin(1 theta) + -0.061 cos(1 theta) + -0.012 sin(1 omega) + -0.002 cos(1 omega) + 0.077 sin(2 theta) + -0.005 cos(2 theta) + 0.002 sin(2 omega) + -0.011 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Experimento 131: Grau = 3, Frequência = 3, alpha = 1.0, threshold = 0.01
+
+theta' = 0.005 1 + 1.016 omega + -0.002 omega^2 + -0.002 omega^3 + -0.026 sin(1 omega) + -0.006 cos(1 omega) + 0.003 sin(2 omega) + 0.002 cos(2 omega) + -0.001 sin(3 omega)
+omega' = -0.262 1 + 0.030 theta + -0.246 omega + 0.090 theta^2 + -0.006 theta omega + -0.012 theta^3 + -0.006 theta^2 omega + -4.989 sin(1 theta) + 0.291 cos(1 theta) + 0.001 cos(1 omega) + 0.012 sin(2 theta) + -0.030 cos(2 theta) + -0.001 cos(2 omega) + -0.004 sin(3 theta)
+
+
+Experimento 132: Grau = 3, Frequência = 3, alpha = 1.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.010 1 + -0.208 theta + -0.249 omega + 0.012 theta^2 + 0.017 theta^3 + -4.712 sin(1 theta) + -0.013 sin(2 theta) + 0.014 cos(2 theta) + -0.003 cos(3 theta)
+
+
+Experimento 133: Grau = 3, Frequência = 3, alpha = 10.0, threshold = 0.001
+
+theta' = 0.045 1 + -0.002 theta + 0.995 omega + -0.014 theta^2 + 0.001 theta^3 + 0.003 theta^2 omega + -0.052 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 sin(2 theta) + 0.009 cos(2 theta) + -0.001 cos(3 theta)
+omega' = 0.064 1 + 0.218 theta + -0.246 omega + -0.028 theta^2 + 0.001 theta omega + -0.017 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.295 sin(1 theta) + -0.064 cos(1 theta) + -0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.075 sin(2 theta) + -0.004 cos(2 theta) + -0.001 cos(2 omega) + -0.010 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Experimento 134: Grau = 3, Frequência = 3, alpha = 10.0, threshold = 0.01
+
+theta' = 0.002 1 + 0.998 omega + 0.003 theta^2 omega + -0.001 omega^3 + -0.001 cos(1 theta) + -0.007 sin(1 omega) + -0.001 cos(1 omega) + 0.001 sin(2 omega)
+omega' = 0.149 1 + 0.077 theta + -0.245 omega + -0.057 theta^2 + 0.001 theta omega + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.141 sin(1 theta) + -0.161 cos(1 theta) + -0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.068 sin(2 theta) + 0.010 cos(2 theta) + -0.010 sin(3 theta) + 0.001 cos(3 theta)
+
+
+Experimento 135: Grau = 3, Frequência = 3, alpha = 10.0, threshold = 0.1
+
+theta' = 0.994 omega
+omega' = -0.005 1 + -0.026 theta + -0.249 omega + 0.007 theta^2 + -4.935 sin(1 theta) + 0.009 sin(2 theta) + 0.006 cos(2 theta)
+
+
+Modelo 1
+
+theta' = -0.003 1 + 0.994 omega + 0.004 cos(1 theta)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Modelo 2
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.939 sin(1 theta) + -0.012 cos(1 theta)
+
+
+Modelo 3
+
+theta' = 0.994 omega
+omega' = -0.248 omega + -4.962 sin(1 theta)
+
+
+Modelo 4
+
+theta' = -0.003 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Modelo 5
+
+theta' = -0.004 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Modelo 6
+
+theta' = 0.994 omega
+omega' = 0.011 1 + -0.017 theta + -0.248 omega + -4.938 sin(1 theta) + -0.013 cos(1 theta) + 0.002 cos(1 omega)
+
+
+Modelo 7
+
+theta' = -0.003 1 + -0.001 theta + 0.994 omega + 0.001 sin(1 theta) + 0.003 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Modelo 8
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.011 1 + -0.017 theta + -0.250 omega + -4.938 sin(1 theta) + -0.014 cos(1 theta) + 0.005 sin(1 omega) + 0.002 cos(1 omega)
+
+
+Modelo 9
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.016 sin(1 theta) + 0.012 cos(1 theta) + 0.007 sin(2 theta) + -0.004 cos(2 theta)
+omega' = 0.013 1 + -0.017 theta + -0.250 omega + -4.949 sin(1 theta) + -0.021 cos(1 theta) + 0.005 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta)
+
+
+Modelo 10
+
+theta' = 0.994 omega
+omega' = -0.249 omega + -4.978 sin(1 theta) + 0.019 sin(2 theta)
+
+
+Modelo 11
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.015 sin(1 theta) + 0.011 cos(1 theta) + 0.001 sin(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.021 cos(1 theta) + 0.006 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega)
+
+
+Modelo 12
+
+theta' = 0.994 omega
+omega' = 0.022 1 + -0.033 theta + -0.248 omega + -4.918 sin(1 theta) + -0.035 cos(1 theta) + 0.014 cos(2 theta)
+
+
+Modelo 13
+
+theta' = -0.008 1 + 0.008 theta + 0.994 omega + -0.015 sin(1 theta) + 0.012 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Modelo 14
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.016 theta + -0.249 omega + -4.951 sin(1 theta) + -0.019 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Modelo 15
+
+theta' = -0.008 1 + 0.008 theta + 0.993 omega + -0.016 sin(1 theta) + 0.012 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.004 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Modelo 16
+
+theta' = 0.994 omega
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.021 cos(1 theta) + 0.006 sin(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Modelo 17
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.014 1 + -0.018 theta + -0.250 omega + -4.948 sin(1 theta) + -0.022 cos(1 theta) + 0.006 sin(1 omega) + -0.001 cos(1 omega) + 0.012 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega)
+
+
+Modelo 18
+
+theta' = -0.007 1 + 0.008 theta + 0.994 omega + -0.017 sin(1 theta) + 0.010 cos(1 theta) + 0.010 sin(2 theta) + -0.003 cos(2 theta) + -0.003 sin(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.944 sin(1 theta) + -0.028 cos(1 theta) + 0.005 sin(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 19
+
+theta' = -0.007 1 + 0.008 theta + 0.994 omega + -0.017 sin(1 theta) + 0.010 cos(1 theta) + 0.010 sin(2 theta) + -0.003 cos(2 theta) + -0.003 sin(3 theta)
+omega' = 0.019 1 + -0.023 theta + -0.250 omega + -4.942 sin(1 theta) + -0.030 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.014 cos(2 theta) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 20
+
+theta' = 0.994 omega
+omega' = 0.031 1 + -0.049 theta + -0.248 omega + -4.897 sin(1 theta) + -0.051 cos(1 theta) + 0.029 cos(2 theta) + -0.009 cos(3 theta)
+
+
+Modelo 21
+
+theta' = -0.005 1 + 0.004 theta + 0.994 omega + -0.011 sin(1 theta) + 0.006 cos(1 theta) + 0.001 sin(1 omega) + 0.008 sin(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 22
+
+theta' = 0.994 omega
+omega' = 0.013 1 + -0.017 theta + -0.249 omega + -4.949 sin(1 theta) + -0.020 cos(1 theta) + 0.013 sin(2 theta) + 0.007 cos(2 theta)
+
+
+Modelo 23
+
+theta' = -0.003 1 + 0.994 omega + -0.004 sin(1 theta) + 0.002 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.007 sin(2 theta) + 0.002 cos(2 theta) + -0.001 sin(2 omega) + -0.002 sin(3 theta) + -0.002 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 24
+
+theta' = 0.994 omega
+omega' = 0.018 1 + -0.023 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 25
+
+theta' = -0.002 1 + -0.002 theta + 0.994 omega + -0.002 sin(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + 0.004 cos(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.003 cos(3 theta)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 26
+
+theta' = -0.001 1 + 0.994 omega + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = 0.018 1 + -0.022 theta + -0.250 omega + -4.943 sin(1 theta) + -0.029 cos(1 theta) + 0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.016 sin(2 theta) + 0.013 cos(2 theta) + -0.001 sin(2 omega) + 0.001 cos(2 omega) + -0.004 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 27
+
+theta' = 0.994 omega
+omega' = 0.016 1 + -0.020 theta + -0.249 omega + -4.948 sin(1 theta) + -0.026 cos(1 theta) + 0.018 sin(2 theta) + 0.011 cos(2 theta) + -0.005 sin(3 theta) + -0.001 cos(3 theta)
+
+
+Modelo 28
+
+theta' = -0.022 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.022 cos(1 theta)
+omega' = -0.086 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Modelo 29
+
+theta' = 0.994 omega
+omega' = -0.066 1 + -0.050 theta + -0.249 omega + 0.029 theta^2 + -4.895 sin(1 theta) + 0.067 cos(1 theta)
+
+
+Modelo 30
+
+theta' = -0.022 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.022 cos(1 theta) + 0.001 sin(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.036 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Modelo 31
+
+theta' = -0.021 1 + -0.008 theta + 0.994 omega + 0.007 theta^2 + 0.011 sin(1 theta) + 0.021 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.035 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Modelo 32
+
+theta' = -0.003 1 + 0.994 omega + 0.001 sin(1 omega) + 0.003 cos(1 omega)
+omega' = -0.087 1 + -0.057 theta + -0.250 omega + 0.036 theta^2 + -0.004 theta omega + -4.888 sin(1 theta) + 0.087 cos(1 theta) + 0.004 sin(1 omega)
+
+
+Modelo 33
+
+theta' = -0.048 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + -0.008 cos(2 theta)
+omega' = -0.125 1 + -0.064 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.876 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 34
+
+theta' = -0.049 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + -0.008 cos(2 theta)
+omega' = -0.125 1 + -0.064 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.876 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 35
+
+theta' = 0.994 omega
+omega' = -0.093 1 + -0.060 theta + -0.249 omega + 0.039 theta^2 + -4.877 sin(1 theta) + 0.097 cos(1 theta) + -0.004 sin(2 theta) + -0.003 cos(2 theta)
+
+
+Modelo 36
+
+theta' = -0.048 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.013 sin(1 theta) + 0.056 cos(1 theta) + 0.001 sin(1 omega) + -0.007 cos(2 theta) + -0.001 sin(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 37
+
+theta' = 0.994 omega
+omega' = -0.073 1 + -0.054 theta + -0.249 omega + 0.032 theta^2 + -4.888 sin(1 theta) + 0.073 cos(1 theta) + -0.002 sin(2 theta)
+
+
+Modelo 38
+
+theta' = 0.003 1 + 0.007 theta + 0.994 omega + -0.003 theta^2 + -0.015 sin(1 theta) + -0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 39
+
+theta' = 0.994 omega
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 40
+
+theta' = -0.049 1 + -0.009 theta + 0.994 omega + 0.015 theta^2 + 0.012 sin(1 theta) + 0.056 cos(1 theta) + 0.001 sin(1 omega) + 0.002 cos(1 omega) + -0.008 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 41
+
+theta' = -0.004 1 + 0.993 omega + 0.004 cos(1 theta) + 0.002 sin(1 omega) + -0.002 sin(2 omega)
+omega' = -0.126 1 + -0.065 theta + -0.250 omega + 0.048 theta^2 + -0.005 theta omega + -4.875 sin(1 theta) + 0.133 cos(1 theta) + 0.004 sin(1 omega) + -0.003 sin(2 theta) + -0.008 cos(2 theta)
+
+
+Modelo 42
+
+theta' = 0.994 omega
+omega' = -0.004 1 + -0.016 theta + -0.249 omega + 0.004 theta^2 + -0.004 theta omega + -4.956 sin(1 theta) + 0.016 sin(2 theta) + 0.004 cos(2 theta)
+
+
+Modelo 43
+
+theta' = 0.024 1 + 0.021 theta + 0.994 omega + -0.011 theta^2 + -0.039 sin(1 theta) + -0.024 cos(1 theta) + 0.016 sin(2 theta) + -0.004 sin(3 theta)
+omega' = -0.187 1 + -0.099 theta + -0.250 omega + 0.072 theta^2 + -0.005 theta omega + -4.817 sin(1 theta) + 0.198 cos(1 theta) + 0.004 sin(1 omega) + -0.020 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 44
+
+theta' = 0.994 omega
+omega' = -0.235 1 + -0.118 theta + -0.249 omega + 0.090 theta^2 + -4.777 sin(1 theta) + 0.253 cos(1 theta) + -0.036 sin(2 theta) + -0.018 cos(2 theta) + 0.008 sin(3 theta)
+
+
+Modelo 45
+
+theta' = 0.011 theta + 0.994 omega + -0.003 theta^2 + -0.023 sin(1 theta) + 0.002 cos(1 theta) + 0.011 sin(2 theta) + -0.002 cos(2 theta) + -0.003 sin(3 theta)
+omega' = -0.192 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.814 sin(1 theta) + 0.204 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 46
+
+theta' = 0.994 omega
+omega' = -0.236 1 + -0.124 theta + -0.249 omega + 0.091 theta^2 + -4.767 sin(1 theta) + 0.253 cos(1 theta) + -0.038 sin(2 theta) + -0.015 cos(2 theta) + 0.008 sin(3 theta) + -0.002 cos(3 theta)
+
+
+Modelo 47
+
+theta' = -0.005 1 + 0.004 theta + 0.994 omega + -0.011 sin(1 theta) + 0.006 cos(1 theta) + 0.001 sin(1 omega) + 0.008 sin(2 theta) + -0.001 sin(2 omega) + -0.003 sin(3 theta) + -0.001 cos(3 theta)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 48
+
+theta' = 0.994 omega
+omega' = -0.093 1 + -0.065 theta + -0.249 omega + 0.040 theta^2 + -4.869 sin(1 theta) + 0.094 cos(1 theta) + -0.006 sin(2 theta) + -0.002 cos(3 theta)
+
+
+Modelo 49
+
+theta' = 0.021 1 + 0.019 theta + 0.994 omega + -0.010 theta^2 + -0.036 sin(1 theta) + -0.023 cos(1 theta) + 0.002 cos(1 omega) + 0.015 sin(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega) + -0.004 sin(3 theta) + 0.001 cos(3 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 50
+
+theta' = 0.994 omega
+omega' = -0.189 1 + -0.099 theta + -0.250 omega + 0.072 theta^2 + -0.005 theta omega + -4.816 sin(1 theta) + 0.200 cos(1 theta) + 0.004 sin(1 omega) + 0.001 cos(1 omega) + -0.020 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 51
+
+theta' = 0.994 omega
+omega' = -0.008 1 + -0.035 theta + -0.249 omega + 0.009 theta^2 + -4.920 sin(1 theta) + 0.006 sin(2 theta) + 0.011 cos(2 theta) + -0.003 cos(3 theta)
+
+
+Modelo 52
+
+theta' = 0.024 1 + 0.021 theta + 0.994 omega + -0.012 theta^2 + -0.040 sin(1 theta) + -0.026 cos(1 theta) + 0.002 cos(1 omega) + 0.017 sin(2 theta) + 0.001 cos(2 theta) + -0.001 sin(2 omega) + -0.001 cos(2 omega) + -0.004 sin(3 theta) + 0.001 cos(3 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.206 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.010 cos(2 theta) + -0.001 sin(2 omega) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 53
+
+theta' = -0.005 1 + 0.994 omega + 0.004 cos(1 theta) + 0.001 sin(1 omega) + 0.002 cos(1 omega) + -0.001 sin(2 omega) + -0.001 cos(2 omega)
+omega' = -0.194 1 + -0.101 theta + -0.250 omega + 0.074 theta^2 + -0.005 theta omega + -4.813 sin(1 theta) + 0.205 cos(1 theta) + 0.004 sin(1 omega) + -0.021 sin(2 theta) + -0.009 cos(2 theta) + 0.004 sin(3 theta) + -0.003 cos(3 theta)
+
+
+Modelo 54
+
+theta' = -0.011 1 + 0.030 theta + 0.992 omega + 0.005 theta^2 + -0.004 theta^3 + 0.003 theta^2 omega + -0.029 sin(1 theta) + 0.011 cos(1 theta)
+omega' = 0.005 1 + -0.270 theta + -0.246 omega + -0.003 theta^2 + 0.029 theta^3 + -0.001 theta^2 omega + 0.006 theta omega^2 + -4.689 sin(1 theta) + -0.005 cos(1 theta)
+
+
+Modelo 55
+
+theta' = -0.011 1 + 0.030 theta + 0.992 omega + 0.005 theta^2 + -0.004 theta^3 + 0.003 theta^2 omega + -0.029 sin(1 theta) + 0.011 cos(1 theta)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Modelo 56
+
+theta' = 0.994 omega
+omega' = -0.063 1 + -0.056 theta + -0.249 omega + 0.028 theta^2 + 0.001 theta^3 + -4.888 sin(1 theta) + 0.063 cos(1 theta)
+
+
+Modelo 57
+
+theta' = 0.001 1 + 0.001 theta + 0.994 omega + 0.003 theta^2 omega + -0.002 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Modelo 58
+
+theta' = 0.994 omega
+omega' = -0.013 1 + -0.278 theta + -0.246 omega + 0.003 theta^2 + -0.005 theta omega + 0.028 theta^3 + -0.004 theta^2 omega + -4.661 sin(1 theta) + 0.013 cos(1 theta)
+
+
+Modelo 59
+
+theta' = 0.003 1 + 0.001 theta + 0.994 omega + -0.001 theta^2 + 0.003 theta^2 omega + -0.002 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Modelo 60
+
+theta' = 1.002 omega + -0.001 omega^3 + -0.009 sin(1 omega)
+omega' = -0.013 1 + -0.278 theta + -0.246 omega + 0.003 theta^2 + -0.005 theta omega + 0.028 theta^3 + -0.004 theta^2 omega + -4.661 sin(1 theta) + 0.013 cos(1 theta)
+
+
+Modelo 61
+
+theta' = 0.994 omega
+omega' = -0.168 theta + -0.249 omega + 0.017 theta^3 + -4.777 sin(1 theta)
+
+
+Modelo 62
+
+theta' = 0.002 1 + 0.994 omega + 0.003 theta^2 omega + 0.002 sin(1 theta) + -0.001 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega)
+omega' = 0.011 1 + -0.276 theta + -0.239 omega + -0.004 theta^2 + -0.001 omega^2 + 0.030 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -0.001 omega^3 + -4.684 sin(1 theta) + -0.009 cos(1 theta) + -0.008 sin(1 omega) + -0.002 cos(1 omega)
+
+
+Modelo 63
+
+theta' = 0.001 1 + 0.995 omega + 0.003 theta^2 omega + -0.001 cos(1 theta) + -0.003 sin(1 omega)
+omega' = 0.006 1 + -0.269 theta + -0.242 omega + -0.003 theta^2 + 0.029 theta^3 + -0.002 theta^2 omega + 0.006 theta omega^2 + -4.690 sin(1 theta) + -0.006 cos(1 theta) + -0.005 sin(1 omega)
+
+
+Modelo 64
+
+theta' = 0.002 1 + 0.061 theta + 0.992 omega + -0.006 theta^3 + 0.003 theta^2 omega + -0.068 sin(1 theta) + -0.003 cos(1 theta) + 0.005 sin(2 theta) + 0.001 cos(2 theta)
+omega' = -0.032 1 + -0.012 theta + -0.246 omega + 0.009 theta^2 + 0.001 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.991 sin(1 theta) + 0.039 cos(1 theta) + 0.024 sin(2 theta) + -0.007 cos(2 theta)
+
+
+Modelo 65
+
+theta' = 0.994 omega
+omega' = -0.123 1 + -0.012 theta + -0.249 omega + 0.049 theta^2 + -0.006 theta^3 + -4.930 sin(1 theta) + 0.130 cos(1 theta) + -0.003 sin(2 theta) + -0.007 cos(2 theta)
+
+
+Modelo 66
+
+theta' = -0.022 1 + 0.094 theta + 0.993 omega + 0.009 theta^2 + -0.011 theta^3 + 0.003 theta^2 omega + -0.103 sin(1 theta) + 0.025 cos(1 theta) + -0.002 sin(1 omega) + -0.001 cos(1 omega) + 0.006 sin(2 theta) + -0.002 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Modelo 67
+
+theta' = 0.016 1 + 0.003 theta + 0.994 omega + -0.005 theta^2 + 0.003 theta^2 omega + -0.001 sin(1 theta) + -0.018 cos(1 theta) + -0.002 sin(1 omega) + -0.001 cos(1 omega) + 0.003 cos(2 theta)
+omega' = -0.005 1 + -0.042 theta + -0.242 omega + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.960 sin(1 theta) + 0.009 cos(1 theta) + -0.006 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta) + 0.001 sin(2 omega)
+
+
+Modelo 68
+
+theta' = 0.994 omega
+omega' = 0.017 1 + -0.221 theta + -0.249 omega + 0.021 theta^3 + -4.706 sin(1 theta) + -0.026 cos(1 theta) + -0.009 sin(2 theta) + 0.010 cos(2 theta)
+
+
+Modelo 69
+
+theta' = 0.994 omega
+omega' = -0.052 theta + -0.249 omega + 0.005 theta^3 + -4.915 sin(1 theta) + 0.013 sin(2 theta)
+
+
+Modelo 70
+
+theta' = 0.029 1 + 0.009 theta + 0.993 omega + -0.010 theta^2 + 0.003 theta^2 omega + -0.011 sin(1 theta) + -0.033 cos(1 theta) + -0.001 sin(1 omega) + 0.002 sin(2 theta) + 0.004 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Modelo 71
+
+theta' = 0.002 1 + 1.008 omega + -0.001 omega^2 + -0.001 omega^3 + -0.016 sin(1 omega) + -0.003 cos(1 omega) + 0.001 sin(2 omega) + 0.001 cos(2 omega)
+omega' = -0.227 1 + -0.050 theta + -0.246 omega + 0.082 theta^2 + -0.005 theta^3 + -0.005 theta^2 omega + -4.881 sin(1 theta) + 0.250 cos(1 theta) + -0.007 sin(2 theta) + -0.022 cos(2 theta)
+
+
+Modelo 72
+
+theta' = 0.014 1 + 0.002 theta + 0.994 omega + -0.004 theta^2 + 0.003 theta^2 omega + -0.016 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 cos(2 theta)
+omega' = -0.008 1 + -0.039 theta + -0.243 omega + 0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.963 sin(1 theta) + 0.012 cos(1 theta) + -0.004 sin(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Modelo 73
+
+theta' = 0.002 1 + 0.996 omega + 0.003 theta^2 omega + -0.001 cos(1 theta) + -0.005 sin(1 omega) + -0.001 cos(1 omega) + 0.001 cos(2 theta)
+omega' = -0.005 1 + -0.043 theta + -0.245 omega + -0.001 theta^2 + 0.001 theta omega + 0.005 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -4.959 sin(1 theta) + 0.007 cos(1 theta) + -0.002 sin(1 omega) + 0.001 cos(1 omega) + 0.024 sin(2 theta) + -0.004 cos(2 theta)
+
+
+Modelo 74
+
+theta' = 0.994 omega
+omega' = -0.005 1 + -0.026 theta + -0.249 omega + 0.007 theta^2 + -4.935 sin(1 theta) + 0.009 sin(2 theta) + 0.006 cos(2 theta)
+
+
+Modelo 75
+
+theta' = -0.012 1 + 0.079 theta + 0.992 omega + 0.005 theta^2 + -0.009 theta^3 + 0.003 theta^2 omega + -0.087 sin(1 theta) + 0.013 cos(1 theta) + 0.005 sin(2 theta)
+omega' = 0.130 1 + 0.126 theta + -0.247 omega + -0.050 theta^2 + -0.006 theta^3 + 0.007 theta omega^2 + -5.192 sin(1 theta) + -0.140 cos(1 theta) + 0.069 sin(2 theta) + 0.008 cos(2 theta) + -0.010 sin(3 theta) + 0.001 cos(3 theta)
+
+
+Modelo 76
+
+theta' = 0.994 omega
+omega' = 0.386 1 + -0.873 theta + -0.249 omega + -0.123 theta^2 + 0.098 theta^3 + -3.981 sin(1 theta) + -0.453 cos(1 theta) + -0.047 sin(2 theta) + 0.079 cos(2 theta) + -0.013 cos(3 theta)
+
+
+Modelo 77
+
+theta' = 0.005 1 + 0.005 theta + 0.994 omega + -0.001 theta^3 + 0.003 theta^2 omega + -0.007 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + -0.003 sin(2 theta) + 0.004 cos(2 theta) + 0.001 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.085 1 + 0.193 theta + -0.246 omega + -0.035 theta^2 + -0.014 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.269 sin(1 theta) + -0.087 cos(1 theta) + 0.075 sin(2 theta) + -0.011 sin(3 theta) + 0.002 cos(3 theta)
+
+
+Modelo 78
+
+theta' = 0.994 omega
+omega' = 0.152 1 + -0.752 theta + -0.249 omega + -0.040 theta^2 + 0.077 theta^3 + -4.080 sin(1 theta) + -0.190 cos(1 theta) + -0.067 sin(2 theta) + 0.048 cos(2 theta) + 0.007 sin(3 theta) + -0.010 cos(3 theta)
+
+
+Modelo 79
+
+theta' = -0.004 1 + 0.079 theta + 0.995 omega + 0.002 theta^2 + -0.009 theta^3 + 0.003 theta^2 omega + -0.089 sin(1 theta) + 0.004 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.007 sin(2 theta) + 0.001 cos(2 theta)
+omega' = 0.064 1 + 0.233 theta + -0.237 omega + -0.028 theta^2 + 0.001 theta omega + -0.001 omega^2 + -0.019 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -0.001 omega^3 + -5.314 sin(1 theta) + -0.061 cos(1 theta) + -0.012 sin(1 omega) + -0.002 cos(1 omega) + 0.077 sin(2 theta) + -0.005 cos(2 theta) + 0.002 sin(2 omega) + -0.011 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Modelo 80
+
+theta' = 0.040 1 + 0.009 theta + 0.995 omega + -0.013 theta^2 + 0.003 theta^2 omega + -0.011 sin(1 theta) + -0.046 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 sin(2 theta) + 0.008 cos(2 theta) + -0.001 sin(3 theta) + -0.001 cos(3 theta)
+omega' = 0.064 1 + 0.233 theta + -0.237 omega + -0.028 theta^2 + 0.001 theta omega + -0.001 omega^2 + -0.019 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -0.001 omega^3 + -5.314 sin(1 theta) + -0.061 cos(1 theta) + -0.012 sin(1 omega) + -0.002 cos(1 omega) + 0.077 sin(2 theta) + -0.005 cos(2 theta) + 0.002 sin(2 omega) + -0.011 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Modelo 81
+
+theta' = 0.005 1 + 1.016 omega + -0.002 omega^2 + -0.002 omega^3 + -0.026 sin(1 omega) + -0.006 cos(1 omega) + 0.003 sin(2 omega) + 0.002 cos(2 omega) + -0.001 sin(3 omega)
+omega' = -0.262 1 + 0.030 theta + -0.246 omega + 0.090 theta^2 + -0.006 theta omega + -0.012 theta^3 + -0.006 theta^2 omega + -4.989 sin(1 theta) + 0.291 cos(1 theta) + 0.001 cos(1 omega) + 0.012 sin(2 theta) + -0.030 cos(2 theta) + -0.001 cos(2 omega) + -0.004 sin(3 theta)
+
+
+Modelo 82
+
+theta' = 0.994 omega
+omega' = -0.010 1 + -0.208 theta + -0.249 omega + 0.012 theta^2 + 0.017 theta^3 + -4.712 sin(1 theta) + -0.013 sin(2 theta) + 0.014 cos(2 theta) + -0.003 cos(3 theta)
+
+
+Modelo 83
+
+theta' = 0.045 1 + -0.002 theta + 0.995 omega + -0.014 theta^2 + 0.001 theta^3 + 0.003 theta^2 omega + -0.052 cos(1 theta) + -0.003 sin(1 omega) + -0.001 cos(1 omega) + 0.003 sin(2 theta) + 0.009 cos(2 theta) + -0.001 cos(3 theta)
+omega' = 0.064 1 + 0.218 theta + -0.246 omega + -0.028 theta^2 + 0.001 theta omega + -0.017 theta^3 + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.295 sin(1 theta) + -0.064 cos(1 theta) + -0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.075 sin(2 theta) + -0.004 cos(2 theta) + -0.001 cos(2 omega) + -0.010 sin(3 theta) + 0.003 cos(3 theta)
+
+
+Modelo 84
+
+theta' = 0.002 1 + 0.998 omega + 0.003 theta^2 omega + -0.001 omega^3 + -0.001 cos(1 theta) + -0.007 sin(1 omega) + -0.001 cos(1 omega) + 0.001 sin(2 omega)
+omega' = 0.149 1 + 0.077 theta + -0.245 omega + -0.057 theta^2 + 0.001 theta omega + -0.001 theta^2 omega + 0.007 theta omega^2 + -5.141 sin(1 theta) + -0.161 cos(1 theta) + -0.001 sin(1 omega) + 0.001 cos(1 omega) + 0.068 sin(2 theta) + 0.010 cos(2 theta) + -0.010 sin(3 theta) + 0.001 cos(3 theta)
+
+
+Melhor modelo AIC = 4
+
+Melhor modelo AICc = 4
+
+Melhor modelo BIC = 4
+

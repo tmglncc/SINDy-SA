@@ -1,0 +1,126 @@
+Experimento 1: Grau = 2, Frequência = 1, alpha = 0.001
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 2: Grau = 2, Frequência = 1, alpha = 0.01
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 3: Grau = 2, Frequência = 1, alpha = 0.1
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 4: Grau = 2, Frequência = 1, alpha = 1.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 5: Grau = 2, Frequência = 1, alpha = 10.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 6: Grau = 3, Frequência = 1, alpha = 0.001
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 7: Grau = 3, Frequência = 1, alpha = 0.01
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 8: Grau = 3, Frequência = 1, alpha = 0.1
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 9: Grau = 3, Frequência = 1, alpha = 1.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 10: Grau = 3, Frequência = 1, alpha = 10.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Experimento 11: Grau = 4, Frequência = 1, alpha = 0.001
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 12: Grau = 4, Frequência = 1, alpha = 0.01
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 13: Grau = 4, Frequência = 1, alpha = 0.1
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 14: Grau = 4, Frequência = 1, alpha = 1.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 15: Grau = 4, Frequência = 1, alpha = 10.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 16: Grau = 5, Frequência = 1, alpha = 0.001
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 17: Grau = 5, Frequência = 1, alpha = 0.01
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 18: Grau = 5, Frequência = 1, alpha = 0.1
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 19: Grau = 5, Frequência = 1, alpha = 1.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Experimento 20: Grau = 5, Frequência = 1, alpha = 10.0
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+Modelo 1
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+N' = 2.800e-02 N + -3.305e-06 N^2
+
+
+Modelo 2
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + 2.501e-14 N^3
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+N' = 2.800e-02 N + -3.305e-06 N^2 + -2.393e-16 N^3
+
+
+Melhor modelo AIC = 1
+
+Melhor modelo AICc = 1
+
+Melhor modelo BIC = 1
+

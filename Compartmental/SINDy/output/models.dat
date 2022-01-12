@@ -1,0 +1,456 @@
+Experimento 1: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 1e-05
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 2: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 3: Grau = 2, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+S' = -19.0824137 1 + -0.0141325 S
+I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
+
+
+Experimento 4: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 1e-05
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 5: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 6: Grau = 2, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+S' = -19.0824137 1 + -0.0141325 S
+I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
+
+
+Experimento 7: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 1e-05
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 8: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 9: Grau = 2, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+S' = -24.8056538 1
+I' = 20.9164458 1 + -0.0296923 I
+
+
+Experimento 10: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 1e-05
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 11: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 12: Grau = 2, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+S' = -24.8056538 1
+I' = 20.9164458 1 + -0.0296923 I
+
+
+Experimento 13: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 1e-05
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 14: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0399970 I + 0.0004000 S I
+
+
+Experimento 15: Grau = 2, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 16: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 1e-05
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 17: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 18: Grau = 3, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+S' = -19.0824137 1 + -0.0141325 S
+I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
+
+
+Experimento 19: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 1e-05
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 20: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 21: Grau = 3, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+S' = -19.0824137 1 + -0.0141325 S
+I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
+
+
+Experimento 22: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 1e-05
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 23: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.0001
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 24: Grau = 3, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 25: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 1e-05
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 26: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 27: Grau = 3, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 28: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 1e-05
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 29: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 30: Grau = 3, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 31: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 1e-05
+
+S' = -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 32: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 33: Grau = 4, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 34: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 1e-05
+
+S' = -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 35: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 36: Grau = 4, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 37: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 1e-05
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 38: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 39: Grau = 4, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 40: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 1e-05
+
+S' = -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 41: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 0.0001
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 42: Grau = 4, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 43: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 1e-05
+
+S' = -0.0456738 I + -0.0000251 S^2
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 44: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 0.0001
+
+S' = 0.0000000
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 45: Grau = 4, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 46: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 1e-05
+
+S' = -0.0495471 I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Experimento 47: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 0.0001
+
+S' = 0.0000000
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 48: Grau = 5, Frequência = 1, alpha = 0.001, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 49: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 1e-05
+
+S' = 0.0000000
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Experimento 50: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 0.0001
+
+S' = 0.0000000
+I' = -0.0399970 I + 0.0004000 S I
+
+
+Experimento 51: Grau = 5, Frequência = 1, alpha = 0.01, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 52: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 1e-05
+
+S' = 0.0000000
+I' = -0.0399970 I + 0.0004000 S I
+
+
+Experimento 53: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 0.0001
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Experimento 54: Grau = 5, Frequência = 1, alpha = 0.1, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Experimento 55: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 1e-05
+
+S' = 0.0000000
+I' = 0.1714313 I + -0.0002851 I^2
+
+
+Experimento 56: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 0.0001
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Experimento 57: Grau = 5, Frequência = 1, alpha = 1.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Experimento 58: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 1e-05
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Experimento 59: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 0.0001
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Experimento 60: Grau = 5, Frequência = 1, alpha = 10.0, threshold = 0.001
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Modelo 1
+
+S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Modelo 2
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Modelo 3
+
+S' = -19.0824137 1 + -0.0141325 S
+I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
+
+
+Modelo 4
+
+S' = -24.8056538 1
+I' = 20.9164458 1 + -0.0296923 I
+
+
+Modelo 5
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Modelo 6
+
+S' = -0.0017453 1 + -0.0004000 S I
+I' = -0.0399970 I + 0.0004000 S I
+
+
+Modelo 7
+
+S' = 0.0000000
+I' = 0.0095475 I
+
+
+Modelo 8
+
+S' = -0.0004000 S I
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Modelo 9
+
+S' = -0.0004000 S I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Modelo 10
+
+S' = -0.0456738 I + -0.0000251 S^2
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Modelo 11
+
+S' = 0.0000000
+I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+Modelo 12
+
+S' = -0.0495471 I
+I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+Modelo 13
+
+S' = 0.0000000
+I' = -0.0399970 I + 0.0004000 S I
+
+
+Modelo 14
+
+S' = 0.0000000
+I' = 0.0000000
+
+
+Modelo 15
+
+S' = 0.0000000
+I' = 0.1714313 I + -0.0002851 I^2
+
+
+Melhor modelo AIC = 6
+
+Melhor modelo AICc = 6
+
+Melhor modelo BIC = 6
+
