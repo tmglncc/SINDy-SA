@@ -47,4 +47,4 @@ Our experiments have been performed using **Python 3.8.2** and **Gnuplot 5.2**. 
 
 ## Cite as
 
-Naozuka, G.T.; Rocha, H.L.; Silva, R.S.; Almeida, R.C. SINDy-SA, 2022. Version 1.0. Available online: [https://github.com/tmglncc/SINDy-SA](https://github.com/tmglncc/SINDy-SA) (accessed on 24 January 2022).
+Naozuka, G.T.; Rocha, H.L.; Silva, R.S.; Almeida, R.C. SINDy-SA, 2022. Version 1.0. Available online: [https://github.com/tmglncc/SINDy-SA](https://github.com/tmglncc/SINDy-SA) (accessed on 24 January 2022), doi: 10.5281/zenodo.5931191.
