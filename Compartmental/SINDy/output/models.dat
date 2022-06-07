@@ -364,10 +364,22 @@ S' = 0.0075581 1 + -0.0000104 S + -0.0000163 I + -0.0004000 S I
 I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = 0.0044885 1 + -0.0000045 S + -0.0000104 I + -0.0004000 S I
+I' = -0.0032629 1 + 0.0000033 S + -0.0399908 I + 0.0004000 S I
+
+
 Modelo 2
 
 S' = -0.0017453 1 + -0.0004000 S I
 I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -0.0000008 1 + -0.0004000 S I
+I' = 0.0000006 1 + -0.0400000 I + 0.0004000 S I
 
 
 Modelo 3
@@ -376,10 +388,22 @@ S' = -19.0824137 1 + -0.0141325 S
 I' = -103.9375979 1 + 0.1263754 S + 0.1655710 I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -67.5031716 1 + 0.0616815 S
+I' = -97.8835372 1 + 0.1190985 S + 0.0617878 I
+
+
 Modelo 4
 
 S' = -24.8056538 1
 I' = 20.9164458 1 + -0.0296923 I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -24.8056538 1
+I' = 35.5075379 1 + -0.0524499 I
 
 
 Modelo 5
@@ -388,10 +412,22 @@ S' = -0.0017453 1 + -0.0004000 S I
 I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -0.0001181 1 + -0.0004000 S I
+I' = 0.0001197 1 + -0.0000001 S + -0.0400000 I + 0.0004000 S I
+
+
 Modelo 6
 
 S' = -0.0017453 1 + -0.0004000 S I
 I' = -0.0399970 I + 0.0004000 S I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = 0.0000178 1 + -0.0004000 S I
+I' = -0.0400000 I + 0.0004000 S I
 
 
 Modelo 7
@@ -400,10 +436,22 @@ S' = 0.0000000
 I' = 0.0095475 I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = 0.0000000
+I' = 0.1414042 I
+
+
 Modelo 8
 
 S' = -0.0004000 S I
 I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -0.0004000 S I
+I' = 0.0000004 1 + -0.0400000 I + 0.0004000 S I
 
 
 Modelo 9
@@ -412,10 +460,22 @@ S' = -0.0004000 S I
 I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -0.0004000 S I
+I' = 0.0000443 1 + -0.0400001 I + 0.0004000 S I
+
+
 Modelo 10
 
 S' = -0.0456738 I + -0.0000251 S^2
 I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = 0.0104330 I + -0.0001764 S^2
+I' = -5.4123878 1 + -0.6094383 I + 0.0026733 S I
 
 
 Modelo 11
@@ -424,10 +484,22 @@ S' = 0.0000000
 I' = 0.0014441 1 + -0.0399993 I + 0.0004000 S I
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = 0.0000000
+I' = 14.0072137 1 + 6.1507685 I + -0.0061588 S I
+
+
 Modelo 12
 
 S' = -0.0495471 I
 I' = -0.0089628 1 + 0.0000115 S + -0.0399809 I + 0.0004000 S I
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+S' = -0.5451629 I
+I' = 38.2734398 1 + -0.0351613 S + 0.0603999 I + 0.0001010 S I
 
 
 Modelo 13
@@ -436,21 +508,27 @@ S' = 0.0000000
 I' = -0.0399970 I + 0.0004000 S I
 
 
-Modelo 14
+*** Using Levenberg-Marquardt algorithm ***
 
 S' = 0.0000000
-I' = 0.0000000
+I' = -1562.2309049 I + 1.5670735 S I
 
 
-Modelo 15
+Modelo 14
 
 S' = 0.0000000
 I' = 0.1714313 I + -0.0002851 I^2
 
 
-Melhor modelo AIC = 6
+*** Using Levenberg-Marquardt algorithm ***
 
-Melhor modelo AICc = 6
+S' = 0.0000000
+I' = 0.4003225 I + -0.0007054 I^2
 
-Melhor modelo BIC = 6
+
+Melhor modelo AIC = 8
+
+Melhor modelo AICc = 8
+
+Melhor modelo BIC = 8
 

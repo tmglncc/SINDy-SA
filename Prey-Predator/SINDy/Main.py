@@ -1,5 +1,5 @@
 import numpy as np
-import pysindy as ps
+import pysindy_local2 as ps
 import matplotlib.pyplot as plt
 import os
 from scipy.integrate import odeint
@@ -60,7 +60,7 @@ plot_ST = False
 plot_musig = False
 plot_simulation = False
 plot_derivative = False
-calibration_mode = None
+calibration_mode = "LM"
 
 stlsq_alphas = [0.001, 0.01, 0.1, 1.0, 10.0]
 stlsq_thresholds = [0.1, 1.0, 10.0]
@@ -137,8 +137,7 @@ for poly_degree in poly_degrees:
 					model_set.append(model)
 
 del model_set[10]
-del model_set[7]
-del model_set[6]
+del model_set[1]
 
 # Compute number of terms
 ms = ModelSelection(model_set, t_steps)
@@ -183,7 +182,8 @@ for model_id, model in enumerate(model_set):
 				print("\n")
 
 				simulation, simulation_min, simulation_max = mc.get_simulation()
-		except:
+		except Exception as e:
+			print("Exception = " + str(e))
 			print("Modelo " + str(model_id+1) + " não pode ser simulado ou recalibrado" + "\n")
 			continue
 

@@ -1,5 +1,5 @@
 import numpy as np
-import pysindy as ps
+import pysindy_local2 as ps
 import matplotlib.pyplot as plt
 import os
 from scipy.integrate import odeint
@@ -50,7 +50,7 @@ plot_qoi = False
 plot_ST = False
 plot_musig = False
 plot_simulation = False
-calibration_mode = None
+calibration_mode = "LM"
 
 stlsq_alphas = [0.001, 0.01, 0.1, 1.0, 10.0]
 stlsq_thresholds = [1.0e-7, 1.0e-6, 1.0e-5]
@@ -140,14 +140,14 @@ for model_id, model in enumerate(model_set):
 
 		# Simulate with another initial condition
 		if calibration_mode is None:
-			simulation = model.simulate(X0_test, t = t)
+			simulation = model.simulate([X0_test], t = t)
 		elif calibration_mode == "LM":
 			mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
 			mc.levenberg_marquardt()
 			model.print(precision = precision)
 			print("\n")
 
-			simulation = model.simulate(X0_test, t = t)
+			simulation = model.simulate([X0_test], t = t)
 		elif calibration_mode == "Bayes":
 			mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
 			mc.bayesian_calibration()

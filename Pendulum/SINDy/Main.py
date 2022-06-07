@@ -1,5 +1,5 @@
 import numpy as np
-import pysindy as ps
+import pysindy_local2 as ps
 import matplotlib.pyplot as plt
 import os
 from scipy.integrate import odeint
@@ -57,7 +57,7 @@ plot_ST = False
 plot_musig = False
 plot_simulation = False
 plot_derivative = False
-calibration_mode = None
+calibration_mode = "LM"
 
 stlsq_alphas = [0.001, 0.01, 0.1, 1.0, 10.0]
 stlsq_thresholds = [0.001, 0.01, 0.1]

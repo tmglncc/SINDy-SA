@@ -149,7 +149,8 @@ def model_wrapper(time, """ + param_expression + """ """ + init_cond_expression 
 		new_arviz_summary["mpv"] = pd.Series(data=rv_mode_values, index=variable_names)
 		return new_arviz_summary
 
-	def levenberg_marquardt(self):
+	# def levenberg_marquardt(self, use_bounds = False, bounds_perc = 0.2, use_maxfev = False, maxfev = 5000):
+	def levenberg_marquardt(self, maxfev = 5000):
 		print("*** Using Levenberg-Marquardt algorithm ***\n")
 
 		ind = self.model.coefficients() != 0.0
@@ -167,9 +168,28 @@ def model_wrapper(time, """ + param_expression + """ """ + init_cond_expression 
 		function = self.__create_model_func(param_expression, var_expression, model_expression, len(var_names))
 		exec(function, wrapper)
 
+		# if use_bounds:
+		# 	lower_bounds = []
+		# 	upper_bounds = []
+
+		# 	coef = self.model.coefficients()
+		# 	for c in coef[ind].flatten():
+		# 		if c < 0.0:
+		# 			lower_bounds.append((1.0 + bounds_perc)*c)
+		# 			upper_bounds.append((1.0 - bounds_perc)*c)
+		# 		else:
+		# 			lower_bounds.append((1.0 - bounds_perc)*c)
+		# 			upper_bounds.append((1.0 + bounds_perc)*c)
+
 		coef = np.zeros(self.model.coefficients().shape)
 		for i in range(coef.shape[0]):
-			popt, pcov = curve_fit(wrapper['func'](self.X0, i), self.t, self.X[:, i], p0 = self.model.coefficients()[ind])
+			# if use_bounds:
+			# 	popt, pcov = curve_fit(wrapper['func'](self.X0, i), self.t, self.X[:, i], p0 = self.model.coefficients()[ind], bounds = (lower_bounds, upper_bounds), method = 'trf')
+			# elif use_maxfev:
+			# 	popt, pcov = curve_fit(wrapper['func'](self.X0, i), self.t, self.X[:, i], p0 = self.model.coefficients()[ind], method = 'lm', maxfev = maxfev)
+			# else:
+			# 	popt, pcov = curve_fit(wrapper['func'](self.X0, i), self.t, self.X[:, i], p0 = self.model.coefficients()[ind], method = 'lm')
+			popt, pcov = curve_fit(wrapper['func'](self.X0, i), self.t, self.X[:, i], p0 = self.model.coefficients()[ind], method = 'lm', maxfev = maxfev)
 			coef[ind] = popt
 		self.model.coefficients(coef)
 

@@ -303,14 +303,29 @@ Modelo 1
 N' = 0.002283085 1 + 0.027997854 N + -0.000003304 N^2
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+N' = 0.000017292 1 + 0.027999975 N + -0.000003305 N^2
+
+
 Modelo 2
 
 N' = 35.436389017 1 + -0.001691880 N
 
 
+*** Using Levenberg-Marquardt algorithm ***
+
+N' = 33.861629797 1 + -0.000516859 N
+
+
 Modelo 3
 
 N' = 0.003520284 N
+
+
+*** Using Levenberg-Marquardt algorithm ***
+
+N' = 0.013363791 N
 
 
 Melhor modelo AIC = 1

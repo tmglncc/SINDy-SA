@@ -1,5 +1,5 @@
 import numpy as np
-import pysindy as ps
+import pysindy_local2 as ps
 import matplotlib.pyplot as plt
 import os
 from scipy.integrate import odeint
@@ -57,7 +57,7 @@ plot_ST = False
 plot_musig = False
 plot_simulation = False
 plot_derivative = False
-calibration_mode = None
+calibration_mode = "LM"
 
 stlsq_alphas = [0.001, 0.01, 0.1, 1.0, 10.0]
 stlsq_thresholds = [1.0e-5, 1.0e-4, 1.0e-3]
@@ -133,6 +133,8 @@ for poly_degree in poly_degrees:
 				if not model_set or is_new_model(model_set, model, len(model.feature_names), precision):
 					model_set.append(model)
 
+del model_set[13]
+
 # Compute number of terms
 ms = ModelSelection(model_set, t_steps)
 ms.compute_k()
@@ -154,27 +156,32 @@ for model_id, model in enumerate(model_set):
 		dd.plot_derivative(X_dot_test, t, init_cond_id, X0_test)
 
 		# Simulate with another initial condition
-		if calibration_mode is None:
-			simulation = model.simulate(X0_test, t = t)
-		elif calibration_mode == "LM":
-			mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
-			mc.levenberg_marquardt()
-			model.print(precision = precision)
-			print("\n")
+		try:
+			if calibration_mode is None:
+				simulation = model.simulate(X0_test, t = t)
+			elif calibration_mode == "LM":
+				mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
+				mc.levenberg_marquardt()
+				model.print(precision = precision)
+				print("\n")
 
-			simulation = model.simulate(X0_test, t = t)
-		elif calibration_mode == "Bayes":
-			mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
-			mc.bayesian_calibration()
-			mc.traceplot()
-			mc.plot_posterior()
-			mc.plot_pair()
-			X0_test = mc.summary()
-			print("\n")
-			model.print(precision = precision)
-			print("\n")
+				simulation = model.simulate(X0_test, t = t)
+			elif calibration_mode == "Bayes":
+				mc = ModelCalibration(model, model_id, X_test, t, X0_test, init_cond_id)
+				mc.bayesian_calibration()
+				mc.traceplot()
+				mc.plot_posterior()
+				mc.plot_pair()
+				X0_test = mc.summary()
+				print("\n")
+				model.print(precision = precision)
+				print("\n")
 
-			simulation, simulation_min, simulation_max = mc.get_simulation()
+				simulation, simulation_min, simulation_max = mc.get_simulation()
+		except Exception as e:
+			print("Exception = " + str(e))
+			print("Modelo " + str(model_id+1) + " não pode ser simulado ou recalibrado" + "\n")
+			continue
 
 		# Generate figures
 		plt.rcParams.update({'font.size': 20})

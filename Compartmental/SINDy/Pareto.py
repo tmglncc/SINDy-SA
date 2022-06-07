@@ -22,7 +22,11 @@ ax.legend()
 model_id = 0
 for i, j in zip(ms.k, ms.SSE):
 	model_id += 1
-	if model_id == 12:
+	# if model_id == 3:
+	# 	ax.annotate(str(model_id), xy = (i, j), xytext = (-22.5, 0), textcoords = 'offset points')
+	# elif model_id == 8:
+	# 	ax.annotate(str(model_id), xy = (i, j), xytext = (-22.5, 0), textcoords = 'offset points')
+	if model_id in [10, 14]:
 		ax.annotate(str(model_id), xy = (i, j), xytext = (-35, 0), textcoords = 'offset points')
 	else:
 		ax.annotate(str(model_id), xy = (i, j), xytext = (10, 0), textcoords = 'offset points')

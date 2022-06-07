@@ -22,7 +22,12 @@ ax.legend()
 model_id = 0
 for i, j in zip(ms.k, ms.SSE):
 	model_id += 1
-	ax.annotate(str(model_id), xy = (i, j), xytext = (10, 0), textcoords = 'offset points')
+	if model_id == 6:
+		ax.annotate(str(model_id), xy = (i, j), xytext = (10, 3), textcoords = 'offset points')
+	elif model_id in [7, 8]:
+		ax.annotate(str(model_id), xy = (i, j), xytext = (-20, 0), textcoords = 'offset points')
+	else:
+		ax.annotate(str(model_id), xy = (i, j), xytext = (10, 0), textcoords = 'offset points')
 
 # ax_zoom = plottools.zoom_axes(fig, ax, [2.5, 12.5], [0.0, 12.0], [10.0, 20.0], [800.0, 1200.0])
 # ax_zoom.plot(ms.k, ms.SSE, "bo", alpha = 0.6, markersize = 6)
