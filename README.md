@@ -49,4 +49,4 @@ Our experiments have been performed using **Python 3.8.2** and **Gnuplot 5.2**. 
 
 Naozuka, G.T., Rocha, H.L., Silva, R.S. _et al._ SINDy-SA framework: enhancing nonlinear system identification with sensitivity analysis. _Nonlinear Dyn_ **110**, 2589–2609 (2022). [https://doi.org/10.1007/s11071-022-07755-2](https://doi.org/10.1007/s11071-022-07755-2)
 
-Naozuka, G.T.; Rocha, H.L.; Silva, R.S.; Almeida, R.C. SINDy-SA, 2022. Version 1.0. Available online: [https://github.com/tmglncc/SINDy-SA](https://github.com/tmglncc/SINDy-SA) (accessed on 24 January 2022), doi: [10.5281/zenodo.5931191](https://doi.org/10.5281/zenodo.5931191).
+Naozuka, G.T.; Rocha, H.L.; Silva, R.S.; Almeida, R.C. SINDy-SA, 2022. Version 1.0. Available online: [https://github.com/tmglncc/SINDy-SA](https://github.com/tmglncc/SINDy-SA) (accessed on 24 January 2022), doi: [10.5281/zenodo.5931191](https://doi.org/10.5281/zenodo.5931191)
